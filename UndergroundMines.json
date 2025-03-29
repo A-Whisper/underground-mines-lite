@@ -1,0 +1,8 @@
+{
+  "yLevel": 0.03,
+  "aditionalOres": true,
+  "addMushrooms": true,
+  "addLocustNests": true,
+  "entranceChance": 0.025,
+  "newMineSpawnChance": 1.0
+}
